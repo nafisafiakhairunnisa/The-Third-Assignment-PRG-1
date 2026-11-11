@@ -29,7 +29,7 @@ Hasil akhir f(5) = 5 * 2 * 3 * 1 * 1 = 30.
 #include <iostream>
 using namespace std;
 
-double f(int n) {
+int f(int n) {
     if (n <= 1) {
         return 1;
     }
