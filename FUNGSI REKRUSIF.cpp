@@ -2,9 +2,8 @@
 Nama: Nafis Afia Khairunnisa
 NIM: 26/578105/PA/24215
 
-===================================================================
-            EXPLANATION / PENJELASAN:
--------------------------------------------------------------------
+==================================================================
+                     PENJELASAN:
 Fungsi `f(n)` dihitung secara rekursif dengan aturan berikut:
 1. Base Case (Kasus Dasar):
    - Jika n <= 1, kembalikan 1.
